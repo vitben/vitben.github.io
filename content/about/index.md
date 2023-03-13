@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: ""
 featured_image: '/images/jeremy-thomas-rMmibFe4czY-unsplash.jpg'
 menu:
   main:
@@ -10,7 +9,7 @@ menu:
 
 Data scientist with a PhD in physics and 8 years’ experience in data analytics, statistics, and modelling. 
 I leverage my quantitative skills to find smart and effective solutions to complex problems.  
-I use Curious by nature, I like to learn new skills and to creatively integrate them with my day-to-day work.  
+Curious by nature, I like to learn new skills and to creatively integrate them with my day-to-day work.  
   
 Born in Milan (Italy), where I got my Master in Nuclear engineering, 
 in 2014 I moved to Geneva (Switzerland) to work at CERN, the Nuclear Organization for Nuclear Research. 
