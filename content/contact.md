@@ -8,7 +8,8 @@ menu: main
 
 ---
 To contact me directly:
----|---
-E-mail | vittoriobencini@hotmail.com
-LinkedIn | https://www.linkedin.com/in/vittorio-bencini-050297a7/
-github | https://github.com/vitben
+|---|---|
+|E-mail | vittoriobencini@hotmail.com|
+|LinkedIn | https://www.linkedin.com/in/vittorio-bencini-050297a7/ |
+|github   | https://github.com/vitben |
+|CV       | [Curriculum Vitae](/files/vittorio_bencini_cv_data_science.pdf) |

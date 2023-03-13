@@ -30,9 +30,3 @@ other = "En e-postadress krävs."
 
 [send]
 other = "Skicka"
-
-[taxonomyPageList]
-other = "Nedan hittar du alla sidor som är taggade “{{ .Title }}”"
-
-[pageTitle]
-other = "{{ .Name }} sida"
