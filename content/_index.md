@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/cool_beam2.png'
 ---
-Welcome to my website. You can have a look at some of my most recent projects below.
+Welcome to my website. Here below you can have a look at my work.
