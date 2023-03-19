@@ -8,21 +8,22 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/vitben/vitben.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fourier analysis of power converters ripple</title>
+      <link>https://github.com/vitben/vitben.github.io/post/chapter-1/</link>
+      <pubDate>Sun, 19 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/vitben/vitben.github.io/post/chapter-1/</guid>
+      <description>Current fluctuations in the Power Converters powering the magnets of CERN transfer lines can cause intabilities in the trasnported particle beam.
+Extraced and cleaned operational data and prepared them for analysis. Apply Fourier analysis to identify time patterns in power converters ripple. Perform statistical analysis to find correlations between ripples in different converters. Summarized and presented reuslts in front of senior maangement. Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Baeysian optimisation of particle beam distribution</title>
       <link>https://github.com/vitben/vitben.github.io/post/chapter-2/</link>
       <pubDate>Fri, 10 Mar 2023 11:00:59 -0400</pubDate>
       
       <guid>https://github.com/vitben/vitben.github.io/post/chapter-2/</guid>
       <description>Link to GitHub Repository</description>
-    </item>
-    
-    <item>
-      <title>Fourier analysis of power converters ripple</title>
-      <link>https://github.com/vitben/vitben.github.io/post/chapter-3/</link>
-      <pubDate>Sat, 04 Mar 2023 11:13:32 -0400</pubDate>
-      
-      <guid>https://github.com/vitben/vitben.github.io/post/chapter-3/</guid>
-      <description>Ripple in the current powering the magents used for particle transport have a considerable effect on the central position of the transported particle beam. Being able to find any pattern or correlation among the ripple in different converters on hte same line would allow to foresee the current values and therefore compensate for the ripple using a control loop. \ For this project, an analysis of the ripple in the power converters of the TT41 beam transport line at CERN is presented.</description>
     </item>
     
   </channel>
